@@ -2,6 +2,8 @@
 
 ![img](https://github.com/DariaStavytska/Test-cases/blob/main/testcase%20(1).jpg)
 
+## [Test-cases](https://docs.google.com/spreadsheets/d/14d9qQ3EuIvIyuyDqB2HtngkJdoCOQlFc/edit?usp=sharing&ouid=106261971464242853133&rtpof=true&sd=true)
+
 Тест-кейс – це професійна документація тестувальника, послідовність дій, спрямована на перевірку будь-якого функціоналу, що описує як прийти до очікуваного результату.
 Під тест-кейсом також може матися на увазі відповідний документ, який являє собою формальний запис тест-кейса.
 
